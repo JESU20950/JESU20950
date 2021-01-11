@@ -1,19 +1,5 @@
 ### Hi there 👋
-                     .-"""-.
-                    / .===. \
-                    \/ 6 6 \/
-                    ( \___/ )
-  ______________ooo__\_____/__________________
- /                                            \
-| Hey, I'm JESU20950! Thanks for following me. |
- \___________________________ooo______________/
-                    |  |  |
-                    |_ | _|
-                    |  |  |
-                    |__|__|
-                    /-'Y'-\
-                   (__/ \__)
-                   
+"Hey, I'm JESU20950! Thanks for following me." | boxes -d boy
 ### About me
 
 - 🌱 I’m currently learning C/C++.
