@@ -28,8 +28,8 @@
 [![JESU20950's github stats](https://github-readme-stats.vercel.app/api?username=JESU20950&theme=tokyonight&show_icons=true)](https://github.com/JESU20950)
 
 
-### 🖱️ Open source work stats
+### 🖱️ Most Used Languages
 
 
-[![ESU20950's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JESU20950&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![JESU20950's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JESU20950&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
